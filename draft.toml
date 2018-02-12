@@ -1,0 +1,7 @@
+[environments]
+  [environments.development]
+    name = "demo-20180213-0010"
+    namespace = "default"
+    wait = false
+    watch = false
+    watch_delay = 2
